@@ -6,3 +6,10 @@
   * Microsoft.CSharp 4.5.0
   * Newtonsoft.Json 11.0.2
   * RestSharp 106.3.1
+
+## Nuget Pack
+
+```cmd
+dotnet pack
+nuget push IO.Swagger.Client.1.0.0.nupkg ApiKey -Source https://api.nuget.org/v3/index.json
+```
