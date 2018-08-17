@@ -5,7 +5,7 @@
 * Reference
   * Microsoft.CSharp 4.5.0
   * Newtonsoft.Json 11.0.2
-  * RestSharp 106.3.1
+  * RestSharp 105.2.3
 
 ## Nuget Pack
 
