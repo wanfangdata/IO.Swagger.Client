@@ -18,7 +18,7 @@ Attention: if you're using RestSharp &gt;= 106.0.0, you should install IO.Swagge
     <Copyright>MIT License</Copyright>
     <PackageProjectUrl>https://github.com/wanfangdata/IO.Swagger.Client</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/wanfangdata/IO.Swagger.Client/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageIconUrl>https://github.com/wanfangdata/IO.Swagger.Client/blob/master/icon.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/wanfangdata/IO.Swagger.Client/master/icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/wanfangdata/IO.Swagger.Client</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>swagger codegen restful</PackageTags>
